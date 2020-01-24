@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+     >
+    <group android:menuCategory="container" android:checkableBehavior="single"  >
+        <item
+            android:id="@+id/mi_synchronized"
+            android:icon="@drawable/ic_sync_alt_24px"
+            android:title="@string/ic_synchronized"
+            />
+        <item
+            android:id="@+id/mi_requests"
+            android:icon="@drawable/ic_input_24px"
+            android:title="@string/ic_requests"
+            app:actionLayout="@layout/view_alert_requests"
+             />
+        <item
+            android:id="@+id/mi_network"
+            android:icon="@drawable/ic_device_hub_24px"
+            android:title="@string/ic_network"
+            app:actionLayout="@layout/view_alert_network"
+            />
+    </group>
+
+</menu>

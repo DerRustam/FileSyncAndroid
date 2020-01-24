@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <item
+        android:id="@+id/mi_received"
+        android:enabled="true"
+        android:icon="@android:drawable/stat_sys_download"
+
+        android:title="@string/ic_recv"
+        android:visible="true"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/mi_tosend"
+        android:icon="@android:drawable/stat_sys_upload"
+
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/ic_send"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/mi_tasks"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/ic_tasks"
+        android:enabled="true"
+        android:visible="true"
+
+        app:showAsAction="ifRoom|withText" />
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorStatusBar">#0E0D0D</color>
+    <color name="colorPrimaryDark">#041A79</color>
+    <color name="colorPrimary">#013E77</color>
+    <color name="colorAccent">#1C6EB4</color>
+    <color name="colorPrimaryLight">#5CA1E6</color>
+    <color name="colorAmbientLight">#C8D7EB</color>
+    <color name="colorTable">#FFFFFF</color>
+    <color name="colorItemTable">#F1EAEE</color>
+    <color name="colorItemBorder">#1F1212</color>
+    <color name="colorSlideMenuAmbient">#DFF0E8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorSlideMenuItem">#411ACE</color>
+    <color name="colorBorder">#910359</color>
+</resources>

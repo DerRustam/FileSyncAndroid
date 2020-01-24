@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FileSync</string>
+    <string name="ic_recv">Received</string>
+    <string name="ic_send">Send</string>
+    <string name="ic_tasks">Tasks</string>
+    <string name="ic_members">Members</string>
+    <string name="ic_synchronized">Synchronized</string>
+    <string name="ic_requests">Requests</string>
+    <string name="ic_network">Network</string>
+    <string name="ic_deselect">Clear selection</string>
+    <string name="item_pick_files">Pick files</string>
+    <string name="item_clear_table">Clear table</string>
+    <string name="item_send_selected">Send selected</string>
+    <string name="item_recv_clear_not">Clear Notifications</string>
+    <string name="msg_clear_recv">Clear all notifications?</string>
+    <string name="item_task_cancel_selected">Cancel selected tasks</string>
+    <string name="msg_canclel_selected_tasks">Cancel/Remove selected tasks?</string>
+    <string name="item_task_cancel_all">Cancel all tasks</string>
+    <string name="drawer_open">Open members menu</string>
+    <string name="drawer_close">Close members menu</string>
+    <string name="msg_wfdis">WiFi Disabled</string>
+    <string name="msg_nocon">No Connections</string>
+    <string name="msg_spd">CH: %.1f GHz\nSPD: %d MB/s</string>
+    <string name="received_empty">There no downloaded files</string>
+    <string name="tasks_empty">No sender  tasks</string>
+    <string name="explorer_table_empty">This table is empty now.\nClick here to pick files to send.</string>
+    <string name="pref_path">cur_path</string>
+</resources>

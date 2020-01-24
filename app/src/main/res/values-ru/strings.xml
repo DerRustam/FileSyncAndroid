@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FileSync</string>
+    <string name="drawer_close">Закрыть меню устройств</string>
+    <string name="drawer_open">Открыть меню устройств</string>
+    <string name="explorer_table_empty">Здесь пока нет файлов\nНажмите сюда для выбора файлов.</string>
+    <string name="ic_deselect">Убрать выделение</string>
+    <string name="ic_members">Устройства</string>
+    <string name="ic_network">Окружение</string>
+    <string name="ic_recv">Принятые</string>
+    <string name="ic_requests">Запросы</string>
+    <string name="ic_send">Отправить</string>
+    <string name="ic_synchronized">Синхронизированные</string>
+    <string name="ic_tasks">Задачи</string>
+    <string name="item_clear_table">Очистить стол</string>
+    <string name="item_pick_files">Выбрать файлы</string>
+    <string name="item_recv_clear_not">Очистить всё</string>
+    <string name="item_send_selected">Отправить выбранные</string>
+    <string name="item_task_cancel_all">Отменить все задачи</string>
+    <string name="item_task_cancel_selected">Отменить выбранные задачи</string>
+    <string name="msg_canclel_selected_tasks">Отменить выбранные задачи?</string>
+    <string name="msg_clear_recv">"Очистить всё? "</string>
+    <string name="msg_nocon">Нет подключения</string>
+    <string name="msg_spd">Канал: %.1f GHz\nСкорость: %d MB/s</string>
+    <string name="msg_wfdis">WiFi Отключен</string>
+    <string name="pref_path">cur_path</string>
+    <string name="tasks_empty">Задачи отсутствуют</string>
+    <string name="received_empty">Список принятых файлов пуст</string>
+</resources>
